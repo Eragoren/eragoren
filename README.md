@@ -1,5 +1,5 @@
 <h1 align="center">Heya~ Im Neo</h1>
-<h3 align="center">A to-be fullstack developer</h3>
+<h3 align="center">Soon to-be fullstack developer</h3>
 
 - 🔭 I’m currently working on **expanding my knowledge**
 
